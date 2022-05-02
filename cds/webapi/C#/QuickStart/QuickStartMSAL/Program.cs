@@ -11,7 +11,7 @@ namespace PowerApps.Samples
         static void Main()
         {
             // TODO Specify the Dataverse environment name to connect with.
-            string resource = "https://<env-name>.api.<region>.dynamics.com";
+            string resource = "https://ttc-erm-sandbox.api.crm9.dynamics.com";
 
             // Azure Active Directory app registration shared by all Power App samples.
             // For your custom apps, you will need to register them with Azure AD yourself.
